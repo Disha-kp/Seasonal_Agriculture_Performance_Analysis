@@ -20,3 +20,36 @@ Tech Stack & Tools
 * **Data Analysis:** Pandas, NumPy
 * **Data Visualization:** Matplotlib, Seaborn
 * **Environment:** Jupyter Notebook
+
+Repository Structure
+├── data/
+│   └── seasonal_agriculture_performance_dataset.csv
+├── notebooks/
+│   └── Seasonal_Agriculture_Performance_Analysis.ipynb
+├── presentation/
+│   └── Seasonal_Agriculture_Performance_Analysis.pptx
+└── README.md
+
+  Key Findings
+  
+* **Kharif Season:** Achieves the highest yield (~5.63 Tonnes/Ha) and profitability, driven by monsoon rainfall, but faces elevated disease and pest risks.
+* **Rabi Season:** Demonstrates steady productivity (~5.10 Tonnes/Ha) with moderate operational costs and lower pest pressure.
+* **Zaid Season:** Operates at lower average yield (~4.64 Tonnes/Ha) and higher input cost relative to revenue, highlighting the need for cost-optimization strategies.
+
+How to Run locally
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/](https://github.com/)<your-username>/seasonal-agriculture-analysis.git
+   cd seasonal-agriculture-analysis
+
+Install required packages:
+
+```bash
+pip install pandas numpy matplotlib seaborn jupyter
+```
+Launch Jupyter Notebook:
+
+```bash
+pip install -r requirements.txt
+```
