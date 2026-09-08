@@ -22,12 +22,19 @@ Tech Stack & Tools
 * **Environment:** Jupyter Notebook
 
 Repository Structure
+
 ├── data/
-│   └── seasonal_agriculture_performance_dataset.csv
+
+│└── seasonal_agriculture_performance_dataset.csv
+
 ├── notebooks/
-│   └── Seasonal_Agriculture_Performance_Analysis.ipynb
+
+│└── Seasonal_Agriculture_Performance_Analysis.ipynb
+
 ├── presentation/
-│   └── Seasonal_Agriculture_Performance_Analysis.pptx
+
+│└── Seasonal_Agriculture_Performance_Analysis.pptx
+
 └── README.md
 
   Key Findings
